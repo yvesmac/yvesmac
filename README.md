@@ -26,3 +26,7 @@
 - Blazor
 - SignalR
   
+📺 Meu Canal no Youtube
+- <a href="https://google.com" target="_blank">
+  Yves Tech Tips
+</a>
