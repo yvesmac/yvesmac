@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá meu nome é Yves 👋
 
-<!--
-**yvesmac/yvesmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Minha Stack de Desenvolvimento:
+- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Atualmente estudando:
+- <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="60" height="30" />
+  
