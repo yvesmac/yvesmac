@@ -27,6 +27,6 @@
 - SignalR
   
 📺 Meu Canal no Youtube
-- <a href="https://google.com" target="_blank">
+- <a href="https://www.youtube.com/channel/UCA3rkjfNvGqG6txPUDQX1lQ" target="_blank">
   Yves Tech Tips
 </a>
