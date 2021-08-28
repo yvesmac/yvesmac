@@ -11,8 +11,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" />
 
+📀 Bancos de dados que utilizo nas apps:
+- <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="30" height="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="30" height="30" />
+
 📖 Atualmente estudando:
 - <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" />
   <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="60" height="30" />
+  
+📸 Stacks que tenho interesse em aprender:
+- MAUI
+- Blazor
+- SignalR
   
